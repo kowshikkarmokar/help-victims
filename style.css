@@ -1,0 +1,83 @@
+.first-banner{
+    text-align: center;
+    color: blue;
+    padding-top: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: x-large;
+}
+body{
+    font-family: 'Arima', cursive;
+}
+.flood-effected{
+    
+     background-image: url(images/donation0.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+     background-position: center;
+     height: 500px
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.second-banner{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: space-evenly;
+}
+#option-button{
+    color: brown;
+    border: 1px solid brown;
+    border-width: 10px;
+}
+#optional-amount{
+    color: gray;
+    text-align: center;
+}
+#our-plan{
+    color: gray;
+}
+.part-icon{
+    display: flex;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.box-model{
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px goldenrod;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
+.bonus-part{
+    display: flex;
+    font-weight: 700;
+    font-size: x-large;
+    margin-top: 10%;
+}
+.align-text{
+    width: 50%;
+    padding-left: 5%;
+}
+.align-text img{
+    width: 80%;
+}
+.update-part{
+    text-align: center;
+}
+.update-input{
+     padding: 0px;
+     border: 30px solid yellow;
+     margin-left: 38%;
+     margin-right: 38%;
+}
+
